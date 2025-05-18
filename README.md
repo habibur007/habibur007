@@ -1,16 +1,16 @@
 Hi there 👋
 
-<!--
-**habibur007/habibur007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate Data Analyst and Business Intelligence Analyst dedicated to transforming data into actionable insights. With strong analytical skills, a keen sense of responsibility, excellent time management, leadership abilities, and effective communication, I thrive in collaborative environments where learning and knowledge sharing are valued.
+
+Languages: C, Python (Pandas, NumPy, Scikit-learn)
+
+Databases: SQL ( MySQL, MS SQL Server)
+
+Tools: Excel (Pivot Tables, Dashboards), Power BI, Google Analytics
+
+Machine Learning & AI: TensorFlow, PyTorch, Keras
+
+Big Data: Hadoop
