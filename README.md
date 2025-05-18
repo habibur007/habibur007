@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Habibur Rahman</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibur007&label=Profile%20views&color=0e75b6&style=flat" alt="habibur007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habibur007" alt="habibur007" /></a> </p>
 I am a Data Analyst and Business Intelligence Analyst passionate about turning data into actionable insights. Skilled in mathematics, statistics, and programming, I excel at driving efficient and ethical AI solutions. My goal is to become a Business Intelligence Expert and help organizations make smarter data-driven decisions.
 
-###Skills
+<h3>Skills </h3>
 
 Languages: C, Python (Pandas, NumPy, Scikit-learn)
 
