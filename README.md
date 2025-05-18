@@ -20,6 +20,10 @@ Big Data: Hadoop
 - 🌱 I’m currently learning **Power BI**
 
 - 📫 How to reach me **md.habibur.rahman12884@gmail.com**
+- **WhatsApp: +8801759101063**
+-**BSc in Computer Science and Engineering - 2023**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
