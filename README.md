@@ -2,8 +2,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibur007&label=Profile%20views&color=0e75b6&style=flat" alt="habibur007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habibur007" alt="habibur007" /></a> </p>
+I am a Data Analyst and Business Intelligence Analyst passionate about turning data into actionable insights. Skilled in mathematics, statistics, and programming, I excel at driving efficient and ethical AI solutions. My goal is to become a Business Intelligence Expert and help organizations make smarter data-driven decisions.
 
-- 🔭 I’m currently working on **Sales Analyst**
+###Skills
+
+Languages: C, Python (Pandas, NumPy, Scikit-learn)
+
+Databases: SQL ( MySQL)
+
+Tools: Excel (Pivot Tables, Dashboards), Power BI, Google Analytics
+
+Machine Learning & AI: TensorFlow, PyTorch, Keras
+
+Big Data: Hadoop
+
+
+- 🔭 I’m currently working on **Sales Data Analyst**
 
 - 🌱 I’m currently learning **Power BI**
 
