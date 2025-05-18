@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Habibur Rahman</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibur007&label=Profile%20views&color=0e75b6&style=flat" alt="habibur007" /> </p>
-
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=habibur007&label=Profile%20views&color=0e75b6&style=fla](https://media.licdn.com/dms/image/v2/D5616AQHWVLuFbusuhg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1662817085956?e=1753315200&v=beta&t=RaimXq_zIf6D6gfrB5LdsUeM-9UjDBz9K1N3PV0NavQ)t" alt="habibur007" /> </p>
 I am a Data Analyst and Business Intelligence Analyst passionate about turning data into actionable insights. Skilled in mathematics, statistics, and programming, I excel at driving efficient and ethical AI solutions. My goal is to become a Business Intelligence Expert and help organizations make smarter data-driven decisions.
 
 <h3>Skills </h3>
